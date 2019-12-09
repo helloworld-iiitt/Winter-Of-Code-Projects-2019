@@ -3,7 +3,7 @@
 Fork this Repository
 
 
-Create a New Folder
+Create a New Folder with project Name of your choice
 
 Create README.md in that folder
 
