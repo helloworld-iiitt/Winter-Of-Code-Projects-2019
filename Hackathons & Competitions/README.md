@@ -9,3 +9,6 @@ Includes:
 * App should have separate Sections for all
 
 * Home page shows all in chronological order
+
+* Only Admins can add/remove Data.
+
